@@ -7,6 +7,8 @@ This workshop provides a walkthrough of the basics of the Kubernetes in about 90
 * Configure Limits
 * Use Volumes
 
+All you need is a web browser and access to a Kubernetes cluster. 
+
 ## Choosing an IDE 
 Both Gitpod and Goople Cloud Shell are good options for this lab. 
 
