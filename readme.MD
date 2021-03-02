@@ -1,6 +1,6 @@
 # Kubernetes intro workshop
 
-This lab provides a walkthrough of the basics of the Kubernetes in about 90 minutes. It covers the following:
+This workshop provides a walkthrough of the basics of the Kubernetes in about 90 minutes. It was specially made for developers who aren't very familiar with Kubernetes, but understand Docker and containers. The workshops focuses on 5 core concepts:
 * Create and monitor pods, deployments and services
 * Create Jobs
 * Use Config maps and Secrets
