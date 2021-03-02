@@ -16,11 +16,11 @@ Gitpod is a developer-environment-as-a-service and this workspace is configure w
 * kubectlx/kubens
 * Vscode extensions and other things needed for the workshop 
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nordineb/kubernetes-intro-workship/tree/master/kubernetes-intro-workship)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nordineb/kubernetes-intro-workshop)
 
 ### Google Cloud Shell Editor
 
-[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/nordineb/kubernetes-intro-workship.git)
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/nordineb/kubernetes-intro-workshop.git)
 
 ## Connect to a Kubernetes cluster
 You can use any Kubernetes cluster for this lab. 
