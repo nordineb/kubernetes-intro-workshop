@@ -1,5 +1,4 @@
-image:
-  file: Dockerfile
+image: nordineb/gitpod-gcp
 
 # List the ports you want to expose and what to do when they are served. See https://www.gitpod.io/docs/config-ports/
 ports:
@@ -13,7 +12,4 @@ tasks:
 
 vscode:
   extensions:
-    - ms-kubernetes-tools.vscode-kubernetes-tools
     - redhat.vscode-yaml
-    - tim-koehler.helm-intellisense
-
